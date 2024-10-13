@@ -100,11 +100,6 @@ languages:
     percent: 75
   - name: Hindi
     percent: 25
-
-Awards.
-  Add/remove as many awards below as you like.
-  Only `title`, `awarder`, and `date` are required.
-  Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
   - title: NPTEL Course on Machine Learning
     date: '2023-11-25'
