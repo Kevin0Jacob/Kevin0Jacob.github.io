@@ -117,7 +117,7 @@ awards:
     awarder: Hack Club RSET
   - title: Figma Website
     date: '2023-11-22'
-    awarder: M Dasan Institute of Technology
+    awarder: M Dasan Institute of Technology.
     
 ---
 
